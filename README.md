@@ -17,12 +17,12 @@ Convert CSV data to JSON
 mongoimport --jsonArray --db fantasy --collection players --file playerData.json
 
 ### Production
-https://medium.com/@rksmith369/how-to-deploy-mern-stack-app-on-aws-ec2-with-ssl-nginx-the-right-way-e76c1a8cd6c6
 SSH: anywhere
 HTTP: anywhere
 HTTPS: anywhere
+Custom: 3000 anywhere
+
 sudo ssh -i draft.pem ubuntu@172.31.40.250
-sudo su
 
 ###Version Planning
  #V0.0: MVP (June 2019)

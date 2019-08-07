@@ -2,3 +2,5 @@ node_modules
 fantasy.pem
 
 playerData.csv
+
+/react-client/dist/bundle.js
