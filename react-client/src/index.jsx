@@ -36,7 +36,7 @@ const Players = styled.span`
   padding-left: 5px;
 `;
 const Position = styled.span`
-  color: white;
+  color: gold;
 `;
 const Info = styled.span`
   float: left;
@@ -44,7 +44,7 @@ const Info = styled.span`
   padding-right: 100px;
 `;
 const Team = styled.span`
-  font-size: 10px;
+  font-size: 14px;
 `;
 const User = styled.div`
   align-content: center;
@@ -58,7 +58,7 @@ const Input = styled.input`
   font-family: 'Courier New', Courier, monospace;
   font-size: 20px;
   background-color: lightgrey;
-  margin-top: 10px;
+  margin-top: 25px;
 `;
 const Wrapper = styled.div`
 `;
@@ -197,35 +197,35 @@ class App extends React.Component {
     this.setState({[droppableId]: newRanks});
   }
 
-  addPlayerToTeam(player) {
+  addPlayerToTeam(player, rank) {
     if (player.player.position === 'QB') {
       let currentTeam = this.state.teamqb;
-      currentTeam.push(player.player.name);
+      currentTeam.push(rank + ':' + player.player.name);
       this.setState({teamqb: currentTeam});
     }
     if (player.player.position === 'RB') {
       let currentTeam = this.state.teamrb;
-      currentTeam.push(player.player.name);
+      currentTeam.push(rank + ':' + player.player.name);
       this.setState({teamrb: currentTeam});
     }
     if (player.player.position === 'WR') {
       let currentTeam = this.state.teamwr;
-      currentTeam.push(player.player.name);
+      currentTeam.push(rank + ':' + player.player.name);
       this.setState({teamwr: currentTeam});
     }
     if (player.player.position === 'TE') {
       let currentTeam = this.state.teamte;
-      currentTeam.push(player.player.name);
+      currentTeam.push(rank + ':' + player.player.name);
       this.setState({teamte: currentTeam});
     }
     if (player.player.position === 'DEF') {
       let currentTeam = this.state.teamdef;
-      currentTeam.push(player.player.name);
+      currentTeam.push(rank + ':' + player.player.name);
       this.setState({teamdef: currentTeam});
     }
     if (player.player.position === 'PK') {
       let currentTeam = this.state.teampk;
-      currentTeam.push(player.player.name);
+      currentTeam.push(player.player.name + rank);
       this.setState({teampk: currentTeam});
     }
 

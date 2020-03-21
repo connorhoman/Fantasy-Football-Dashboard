@@ -359,18 +359,18 @@
     "team": "KC",
     "bye": 12,
     "ADP": 28.6,
-    "AAV": 23,
+    "AAV": 18,
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kansas_City_Chiefs_logo.svg/316px-Kansas_City_Chiefs_logo.svg.png"
   },
   {
     "id": 80,
     "rank": 47,
-    "name": "Andrew Luck",
+    "name": "Jacoby Brissett",
     "position": "QB",
     "team": "IND",
     "bye": 6,
     "ADP": 47.1,
-    "AAV": 13,
+    "AAV": 0,
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Indianapolis_Colts_logo.svg/386px-Indianapolis_Colts_logo.svg.png"
   },
   {
@@ -381,7 +381,7 @@
     "team": "GB",
     "bye": 11,
     "ADP": 52.5,
-    "AAV": 12,
+    "AAV": 6,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/green-bay-packers-logo-vector.png"
   },
   {
@@ -392,7 +392,7 @@
     "team": "HOU",
     "bye": 10,
     "ADP": 59.2,
-    "AAV": 15,
+    "AAV": 6,
     "url": "https://seeklogo.net/wp-content/uploads/2012/11/houston-texans-logo-vector.png"
   },
   {
@@ -414,7 +414,7 @@
     "team": "ATL",
     "bye": 9,
     "ADP": 71.4,
-    "AAV": 9,
+    "AAV": 6,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/atlanta-falcons-logo-vector.png"
   },
   {
@@ -425,7 +425,7 @@
     "team": "NO",
     "bye": 9,
     "ADP": 75,
-    "AAV": 4,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/new-orleans-saints-logo-vector.png"
   },
   {
@@ -458,7 +458,7 @@
     "team": "ARI",
     "bye": 12,
     "ADP": 92.5,
-    "AAV": 0,
+    "AAV": 2,
     "url": "https://logoeps.com/wp-content/uploads/2012/12/arizona-cardinals-logo-vector.png"
   },
   {
@@ -469,7 +469,7 @@
     "team": "LAR",
     "bye": 9,
     "ADP": 100.9,
-    "AAV": 3,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2015/08/st-louis-rams-vector-logo.png"
   },
   {
@@ -480,7 +480,7 @@
     "team": "CAR",
     "bye": 7,
     "ADP": 104.5,
-    "AAV": 9,
+    "AAV": 3,
     "url": "https://seeklogo.net/wp-content/uploads/2012/11/carolina-panthers-logo-vector.png"
   },
   {
@@ -491,7 +491,7 @@
     "team": "TB",
     "bye": 7,
     "ADP": 113.4,
-    "AAV": 3,
+    "AAV": 0,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/tampa-bay-buccaneers-logo-vector.png"
   },
   {
@@ -513,7 +513,7 @@
     "team": "PIT",
     "bye": 7,
     "ADP": 121.1,
-    "AAV": 3,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/pittsburgh-steelers-logo-vector-01.png"
   },
   {
@@ -524,7 +524,7 @@
     "team": "NE",
     "bye": 10,
     "ADP": 123.4,
-    "AAV": 1,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2014/10/new-england-patriots-logo-preview.png"
   },
   {
@@ -535,7 +535,7 @@
     "team": "SF",
     "bye": 4,
     "ADP": 131.4,
-    "AAV": 1,
+    "AAV": 0,
     "url": "https://seeklogo.net/wp-content/uploads/2011/06/san-francisco-49ers-logo-vector.png"
   },
   {
@@ -579,7 +579,7 @@
     "team": "CHI",
     "bye": 6,
     "ADP": 151.8,
-    "AAV": 0,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/chicago-bears-logo-vector.png"
   },
   {
@@ -689,7 +689,7 @@
     "team": "NYG",
     "bye": 11,
     "ADP": 1.5,
-    "AAV": 60,
+    "AAV": 57,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/new-york-giants-logo-vector.png"
   },
   {
@@ -700,7 +700,7 @@
     "team": "DAL",
     "bye": 8,
     "ADP": 2.9,
-    "AAV": 49,
+    "AAV": 54,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/dallas-cowboys-logo-vector.png"
   },
   {
@@ -711,7 +711,7 @@
     "team": "NO",
     "bye": 9,
     "ADP": 3.3,
-    "AAV": 53,
+    "AAV": 55,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/new-orleans-saints-logo-vector.png"
   },
   {
@@ -733,7 +733,7 @@
     "team": "ARI",
     "bye": 12,
     "ADP": 6.6,
-    "AAV": 35,
+    "AAV": 51,
     "url": "https://logoeps.com/wp-content/uploads/2012/12/arizona-cardinals-logo-vector.png"
   },
   {
@@ -744,7 +744,7 @@
     "team": "LAC",
     "bye": 12,
     "ADP": 7,
-    "AAV": 27,
+    "AAV": 23,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/san-diego-chargers-logo-vector.png"
   },
   {
@@ -755,7 +755,7 @@
     "team": "NYJ",
     "bye": 4,
     "ADP": 9.9,
-    "AAV": 35,
+    "AAV": 50,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/new-york-jets-logo-vector-01.png"
   },
   {
@@ -766,7 +766,7 @@
     "team": "CIN",
     "bye": 9,
     "ADP": 11.1,
-    "AAV": 30,
+    "AAV": 39,
     "url": "https://seeklogo.net/wp-content/uploads/2012/05/cincinnati-bengals-logo-vector-01.png"
   },
   {
@@ -777,7 +777,7 @@
     "team": "PIT",
     "bye": 7,
     "ADP": 13.7,
-    "AAV": 33,
+    "AAV": 38,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/pittsburgh-steelers-logo-vector-01.png"
   },
   {
@@ -788,18 +788,18 @@
     "team": "MIN",
     "bye": 12,
     "ADP": 17.2,
-    "AAV": 30,
+    "AAV": 37,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/minnesota-vikings-logo-vector.png"
   },
   {
     "id": 51,
     "rank": 18,
-    "name": "Todd Gurley",
+    "name": "Todd Gurley II",
     "position": "RB",
     "team": "LAR",
     "bye": 9,
     "ADP": 17.8,
-    "AAV": 29,
+    "AAV": 41,
     "url": "https://seeklogo.net/wp-content/uploads/2015/08/st-louis-rams-vector-logo.png"
   },
   {
@@ -810,7 +810,7 @@
     "team": "KC",
     "bye": 12,
     "ADP": 19.5,
-    "AAV": 30,
+    "AAV": 25,
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kansas_City_Chiefs_logo.svg/316px-Kansas_City_Chiefs_logo.svg.png"
   },
   {
@@ -821,7 +821,7 @@
     "team": "CLE",
     "bye": 7,
     "ADP": 21.4,
-    "AAV": 23,
+    "AAV": 34,
     "url": "https://logoeps.com/wp-content/uploads/2012/05/cleveland-browns-logo-vector-01.png"
   },
   {
@@ -832,7 +832,7 @@
     "team": "JAX",
     "bye": 10,
     "ADP": 25.5,
-    "AAV": 22,
+    "AAV": 31,
     "url": "https://seeklogo.com/images/J/jacksonville-jaguars-logo-A285AA5F8E-seeklogo.com.png"
   },
   {
@@ -843,7 +843,7 @@
     "team": "ATL",
     "bye": 9,
     "ADP": 27.6,
-    "AAV": 19,
+    "AAV": 32,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/atlanta-falcons-logo-vector.png"
   },
   {
@@ -854,7 +854,7 @@
     "team": "IND",
     "bye": 6,
     "ADP": 29.4,
-    "AAV": 18,
+    "AAV": 9,
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Indianapolis_Colts_logo.svg/386px-Indianapolis_Colts_logo.svg.png"
   },
   {
@@ -865,7 +865,7 @@
     "team": "GB",
     "bye": 11,
     "ADP": 31.9,
-    "AAV": 18,
+    "AAV": 26,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/green-bay-packers-logo-vector.png"
   },
   {
@@ -876,7 +876,7 @@
     "team": "OAK",
     "bye": 6,
     "ADP": 33,
-    "AAV": 19,
+    "AAV": 32,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/oakland-raiders-logo-vector.png"
   },
   {
@@ -887,7 +887,7 @@
     "team": "DET",
     "bye": 5,
     "ADP": 34.7,
-    "AAV": 25,
+    "AAV": 33,
     "url": "https://seeklogo.net/wp-content/uploads/2012/09/detroit-lions-logo-vector-01.png"
   },
   {
@@ -898,7 +898,7 @@
     "team": "TEN",
     "bye": 11,
     "ADP": 36.5,
-    "AAV": 20,
+    "AAV": 26,
     "url": "https://seeklogo.com/images/T/tennessee-titans-logo-0840E794B3-seeklogo.com.png"
   },
   {
@@ -909,7 +909,7 @@
     "team": "CHI",
     "bye": 6,
     "ADP": 39.6,
-    "AAV": 13,
+    "AAV": 17,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/chicago-bears-logo-vector.png"
   },
   {
@@ -920,18 +920,18 @@
     "team": "DEN",
     "bye": 10,
     "ADP": 42.9,
-    "AAV": 15,
+    "AAV": 8,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/denver-broncos-logo-vector.png"
   },
   {
     "id": 78,
     "rank": 45,
-    "name": "Mark Ingram",
+    "name": "Mark Ingram II",
     "position": "RB",
     "team": "BAL",
     "bye": 8,
     "ADP": 44.5,
-    "AAV": 13,
+    "AAV": 17,
     "url": "https://seeklogo.net/wp-content/uploads/2012/05/baltimore-ravens-logo-vector-01.png"
   },
   {
@@ -942,7 +942,7 @@
     "team": "MIA",
     "bye": 5,
     "ADP": 47.1,
-    "AAV": 16,
+    "AAV": 9,
     "url": "https://seeklogo.net/wp-content/uploads/2015/08/miami-dolphins-vector-logo.png"
   },
   {
@@ -953,7 +953,7 @@
     "team": "NE",
     "bye": 10,
     "ADP": 49,
-    "AAV": 13,
+    "AAV": 9,
     "url": "https://seeklogo.net/wp-content/uploads/2014/10/new-england-patriots-logo-preview.png"
   },
   {
@@ -964,7 +964,7 @@
     "team": "SEA",
     "bye": 11,
     "ADP": 52.5,
-    "AAV": 18,
+    "AAV": 27,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/seattle-seahawks-logo-vector.png"
   },
   {
@@ -975,7 +975,7 @@
     "team": "NE",
     "bye": 10,
     "ADP": 55.6,
-    "AAV": 13,
+    "AAV": 10,
     "url": "https://seeklogo.net/wp-content/uploads/2014/10/new-england-patriots-logo-preview.png"
   },
   {
@@ -997,7 +997,7 @@
     "team": "WAS",
     "bye": 10,
     "ADP": 61.4,
-    "AAV": 5,
+    "AAV": 8,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/washington-redskins-logo-vector.png"
   },
   {
@@ -1008,7 +1008,7 @@
     "team": "LAR",
     "bye": 12,
     "ADP": 65.9,
-    "AAV": 3,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2015/08/st-louis-rams-vector-logo.png"
   },
   {
@@ -1030,7 +1030,7 @@
     "team": "HOU",
     "bye": 10,
     "ADP": 72.6,
-    "AAV": 14,
+    "AAV": 0,
     "url": "https://seeklogo.net/wp-content/uploads/2012/11/houston-texans-logo-vector.png"
   },
   {
@@ -1041,7 +1041,7 @@
     "team": "SEA",
     "bye": 11,
     "ADP": 75.2,
-    "AAV": 3,
+    "AAV": 4,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/seattle-seahawks-logo-vector.png"
   },
   {
@@ -1052,7 +1052,7 @@
     "team": "NO",
     "bye": 9,
     "ADP": 79.2,
-    "AAV": 3,
+    "AAV": 4,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/new-orleans-saints-logo-vector.png"
   },
   {
@@ -1074,7 +1074,7 @@
     "team": "PHI",
     "bye": 12,
     "ADP": 83.2,
-    "AAV": 5,
+    "AAV": 6,
     "url": "https://seeklogo.net/wp-content/uploads/2014/10/philadelphia-eagles-logo.png"
   },
   {
@@ -1096,7 +1096,7 @@
     "team": "PHI",
     "bye": 10,
     "ADP": 89.4,
-    "AAV": 4,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2014/10/philadelphia-eagles-logo.png"
   },
   {
@@ -1107,7 +1107,7 @@
     "team": "DEN",
     "bye": 10,
     "ADP": 92.2,
-    "AAV": 1,
+    "AAV": 4,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/denver-broncos-logo-vector.png"
   },
   {
@@ -1118,7 +1118,7 @@
     "team": "BUF",
     "bye": 6,
     "ADP": 94.4,
-    "AAV": 4,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2012/05/buffalo-bills-logo-vector-01.png"
   },
   {
@@ -1129,7 +1129,7 @@
     "team": "SF",
     "bye": 4,
     "ADP": 101.5,
-    "AAV": 1,
+    "AAV": 0,
     "url": "https://seeklogo.net/wp-content/uploads/2011/06/san-francisco-49ers-logo-vector.png"
   },
   {
@@ -1140,7 +1140,7 @@
     "team": "LAC",
     "bye": 12,
     "ADP": 101.8,
-    "AAV": 5,
+    "AAV": 4,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/san-diego-chargers-logo-vector.png"
   },
   {
@@ -1151,7 +1151,7 @@
     "team": "PIT",
     "bye": 7,
     "ADP": 105.3,
-    "AAV": 1,
+    "AAV": 0,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/pittsburgh-steelers-logo-vector-01.png"
   },
   {
@@ -1162,7 +1162,7 @@
     "team": "ATL",
     "bye": 9,
     "ADP": 107.3,
-    "AAV": 2,
+    "AAV": 0,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/atlanta-falcons-logo-vector.png"
   },
   {
@@ -1173,7 +1173,7 @@
     "team": "OAK",
     "bye": 6,
     "ADP": 110.2,
-    "AAV": 1,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/oakland-raiders-logo-vector.png"
   },
   {
@@ -1195,7 +1195,7 @@
     "team": "WAS",
     "bye": 10,
     "ADP": 120.2,
-    "AAV": 0,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/washington-redskins-logo-vector.png"
   },
   {
@@ -1206,7 +1206,7 @@
     "team": "BUF",
     "bye": 12,
     "ADP": 123.2,
-    "AAV": 2,
+    "AAV": 1,
     "url": "https://seeklogo.net/wp-content/uploads/2012/05/buffalo-bills-logo-vector-01.png"
   },
   {
@@ -1261,7 +1261,7 @@
     "team": "TEN",
     "bye": 11,
     "ADP": 141.1,
-    "AAV": 2,
+    "AAV": 1,
     "url": "https://seeklogo.com/images/T/tennessee-titans-logo-0840E794B3-seeklogo.com.png"
   },
   {
@@ -1272,7 +1272,7 @@
     "team": "KC",
     "bye": 12,
     "ADP": 146.6,
-    "AAV": 0,
+    "AAV": 4,
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kansas_City_Chiefs_logo.svg/316px-Kansas_City_Chiefs_logo.svg.png"
   },
   {
@@ -1294,7 +1294,7 @@
     "team": "SF",
     "bye": 4,
     "ADP": 156,
-    "AAV": 1,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2011/06/san-francisco-49ers-logo-vector.png"
   },
   {
@@ -1316,7 +1316,7 @@
     "team": "CLE",
     "bye": 7,
     "ADP": 157.5,
-    "AAV": 0,
+    "AAV": 8,
     "url": "https://logoeps.com/wp-content/uploads/2012/05/cleveland-browns-logo-vector-01.png"
   },
   {
@@ -1327,7 +1327,7 @@
     "team": "MIA",
     "bye": 5,
     "ADP": 158.4,
-    "AAV": 0,
+    "AAV": 1,
     "url": "https://seeklogo.net/wp-content/uploads/2015/08/miami-dolphins-vector-logo.png"
   },
   {
@@ -1503,7 +1503,7 @@
     "team": "KC",
     "bye": 12,
     "ADP": 15.7,
-    "AAV": 42,
+    "AAV": 39,
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kansas_City_Chiefs_logo.svg/316px-Kansas_City_Chiefs_logo.svg.png"
   },
   {
@@ -1514,7 +1514,7 @@
     "team": "PHI",
     "bye": 10,
     "ADP": 29.5,
-    "AAV": 31,
+    "AAV": 28,
     "url": "https://seeklogo.net/wp-content/uploads/2014/10/philadelphia-eagles-logo.png"
   },
   {
@@ -1525,7 +1525,7 @@
     "team": "SF",
     "bye": 4,
     "ADP": 32.6,
-    "AAV": 28,
+    "AAV": 27,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/seattle-seahawks-logo-vector.png"
   },
   {
@@ -1536,7 +1536,7 @@
     "team": "TB",
     "bye": 7,
     "ADP": 57.8,
-    "AAV": 14,
+    "AAV": 7,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/tampa-bay-buccaneers-logo-vector.png"
   },
   {
@@ -1547,7 +1547,7 @@
     "team": "LAC",
     "bye": 12,
     "ADP": 62,
-    "AAV": 10,
+    "AAV": 7,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/san-diego-chargers-logo-vector.png"
   },
   {
@@ -1558,7 +1558,7 @@
     "team": "NYG",
     "bye": 11,
     "ADP": 66.9,
-    "AAV": 14,
+    "AAV": 7,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/new-york-giants-logo-vector.png"
   },
   {
@@ -1567,7 +1567,7 @@
     "name": "Eric Ebron",
     "position": "TE",
     "team": "IND",
-    "bye": 6,
+    "bye": 0,
     "ADP": 71.7,
     "AAV": 5,
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Indianapolis_Colts_logo.svg/386px-Indianapolis_Colts_logo.svg.png"
@@ -1580,7 +1580,7 @@
     "team": "NO",
     "bye": 9,
     "ADP": 75.1,
-    "AAV": 11,
+    "AAV": 6,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/new-orleans-saints-logo-vector.png"
   },
   {
@@ -1591,7 +1591,7 @@
     "team": "PIT",
     "bye": 7,
     "ADP": 83.3,
-    "AAV": 6,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/pittsburgh-steelers-logo-vector-01.png"
   },
   {
@@ -1602,7 +1602,7 @@
     "team": "CLE",
     "bye": 7,
     "ADP": 86.3,
-    "AAV": 4,
+    "AAV": 2,
     "url": "https://logoeps.com/wp-content/uploads/2012/05/cleveland-browns-logo-vector-01.png"
   },
   {
@@ -1613,7 +1613,7 @@
     "team": "ATL",
     "bye": 9,
     "ADP": 115.8,
-    "AAV": 3,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/atlanta-falcons-logo-vector.png"
   },
   {
@@ -1635,7 +1635,7 @@
     "team": "TEN",
     "bye": 11,
     "ADP": 142.6,
-    "AAV": 3,
+    "AAV": 2,
     "url": "https://seeklogo.com/images/T/tennessee-titans-logo-0840E794B3-seeklogo.com.png"
   },
   {
@@ -1646,7 +1646,7 @@
     "team": "CAR",
     "bye": 7,
     "ADP": 148,
-    "AAV": 1,
+    "AAV": 0,
     "url": "https://seeklogo.net/wp-content/uploads/2012/11/carolina-panthers-logo-vector.png"
   },
   {
@@ -1657,7 +1657,7 @@
     "team": "MIN",
     "bye": 12,
     "ADP": 150.9,
-    "AAV": 1,
+    "AAV": 0,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/minnesota-vikings-logo-vector.png"
   },
   {
@@ -1668,7 +1668,7 @@
     "team": "GB",
     "bye": 11,
     "ADP": 158,
-    "AAV": 1,
+    "AAV": 0,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/green-bay-packers-logo-vector.png"
   },
   {
@@ -1679,7 +1679,7 @@
     "team": "IND",
     "bye": 6,
     "ADP": 158.8,
-    "AAV": 0,
+    "AAV": 1,
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Indianapolis_Colts_logo.svg/386px-Indianapolis_Colts_logo.svg.png"
   },
   {
@@ -1690,7 +1690,7 @@
     "team": "WAS",
     "bye": 10,
     "ADP": 158.9,
-    "AAV": 4,
+    "AAV": 1,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/washington-redskins-logo-vector.png"
   },
   {
@@ -1701,7 +1701,7 @@
     "team": "CHI",
     "bye": 6,
     "ADP": 159.6,
-    "AAV": 0,
+    "AAV": 1,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/chicago-bears-logo-vector.png"
   },
   {
@@ -1723,7 +1723,7 @@
     "team": "BAL",
     "bye": 8,
     "ADP": 163.2,
-    "AAV": 0,
+    "AAV": 1,
     "url": "https://seeklogo.net/wp-content/uploads/2012/05/baltimore-ravens-logo-vector-01.png"
   },
   {
@@ -1789,7 +1789,7 @@
     "team": "HOU",
     "bye": 10,
     "ADP": 6.6,
-    "AAV": 49,
+    "AAV": 53,
     "url": "https://seeklogo.net/wp-content/uploads/2012/11/houston-texans-logo-vector.png"
   },
   {
@@ -1800,7 +1800,7 @@
     "team": "GB",
     "bye": 11,
     "ADP": 7,
-    "AAV": 48,
+    "AAV": 47,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/green-bay-packers-logo-vector.png"
   },
   {
@@ -1811,7 +1811,7 @@
     "team": "NO",
     "bye": 9,
     "ADP": 9.5,
-    "AAV": 43,
+    "AAV": 50,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/new-orleans-saints-logo-vector.png"
   },
   {
@@ -1822,7 +1822,7 @@
     "team": "ATL",
     "bye": 9,
     "ADP": 11.5,
-    "AAV": 49,
+    "AAV": 47,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/atlanta-falcons-logo-vector.png"
   },
   {
@@ -1833,7 +1833,7 @@
     "team": "CLE",
     "bye": 7,
     "ADP": 13.6,
-    "AAV": 37,
+    "AAV": 45,
     "url": "https://logoeps.com/wp-content/uploads/2012/05/cleveland-browns-logo-vector-01.png"
   },
   {
@@ -1855,7 +1855,7 @@
     "team": "OAK",
     "bye": 6,
     "ADP": 18.6,
-    "AAV": 41,
+    "AAV": 37,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/oakland-raiders-logo-vector.png"
   },
   {
@@ -1866,7 +1866,7 @@
     "team": "TB",
     "bye": 7,
     "ADP": 19.7,
-    "AAV": 38,
+    "AAV": 36,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/tampa-bay-buccaneers-logo-vector.png"
   },
   {
@@ -1877,7 +1877,7 @@
     "team": "MIN",
     "bye": 12,
     "ADP": 22.8,
-    "AAV": 30,
+    "AAV": 23,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/minnesota-vikings-logo-vector.png"
   },
   {
@@ -1888,7 +1888,7 @@
     "team": "IND",
     "bye": 6,
     "ADP": 24.1,
-    "AAV": 30,
+    "AAV": 20,
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Indianapolis_Colts_logo.svg/386px-Indianapolis_Colts_logo.svg.png"
   },
   {
@@ -1899,7 +1899,7 @@
     "team": "LAC",
     "bye": 12,
     "ADP": 25.8,
-    "AAV": 34,
+    "AAV": 36,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/san-diego-chargers-logo-vector.png"
   },
   {
@@ -1910,7 +1910,7 @@
     "team": "DAL",
     "bye": 8,
     "ADP": 27.4,
-    "AAV": 26,
+    "AAV": 30,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/dallas-cowboys-logo-vector.png"
   },
   {
@@ -1921,7 +1921,7 @@
     "team": "CIN",
     "bye": 9,
     "ADP": 29.3,
-    "AAV": 13,
+    "AAV": 5,
     "url": "https://seeklogo.net/wp-content/uploads/2012/05/cincinnati-bengals-logo-vector-01.png"
   },
   {
@@ -1932,7 +1932,7 @@
     "team": "MIN",
     "bye": 12,
     "ADP": 35.9,
-    "AAV": 25,
+    "AAV": 21,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/minnesota-vikings-logo-vector.png"
   },
   {
@@ -1943,7 +1943,7 @@
     "team": "NE",
     "bye": 10,
     "ADP": 37.9,
-    "AAV": 31,
+    "AAV": 30,
     "url": "https://seeklogo.net/wp-content/uploads/2014/10/new-england-patriots-logo-preview.png"
   },
   {
@@ -1954,7 +1954,7 @@
     "team": "KC",
     "bye": 12,
     "ADP": 39.4,
-    "AAV": 41,
+    "AAV": 45,
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kansas_City_Chiefs_logo.svg/316px-Kansas_City_Chiefs_logo.svg.png"
   },
   {
@@ -1965,7 +1965,7 @@
     "team": "LAR",
     "bye": 9,
     "ADP": 39.9,
-    "AAV": 25,
+    "AAV": 22,
     "url": "https://seeklogo.net/wp-content/uploads/2015/08/st-louis-rams-vector-logo.png"
   },
   {
@@ -1976,7 +1976,7 @@
     "team": "LAR",
     "bye": 9,
     "ADP": 44.3,
-    "AAV": 24,
+    "AAV": 21,
     "url": "https://seeklogo.net/wp-content/uploads/2015/08/st-louis-rams-vector-logo.png"
   },
   {
@@ -2009,7 +2009,7 @@
     "team": "ATL",
     "bye": 9,
     "ADP": 49.3,
-    "AAV": 10,
+    "AAV": 11,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/atlanta-falcons-logo-vector.png"
   },
   {
@@ -2020,7 +2020,7 @@
     "team": "SEA",
     "bye": 11,
     "ADP": 52.6,
-    "AAV": 19,
+    "AAV": 15,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/seattle-seahawks-logo-vector.png"
   },
   {
@@ -2031,7 +2031,7 @@
     "team": "TB",
     "bye": 7,
     "ADP": 54.3,
-    "AAV": 17,
+    "AAV": 16,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/tampa-bay-buccaneers-logo-vector.png"
   },
   {
@@ -2042,7 +2042,7 @@
     "team": "CLE",
     "bye": 7,
     "ADP": 55.6,
-    "AAV": 8,
+    "AAV": 5,
     "url": "https://logoeps.com/wp-content/uploads/2012/05/cleveland-browns-logo-vector-01.png"
   },
   {
@@ -2064,7 +2064,7 @@
     "team": "LAC",
     "bye": 12,
     "ADP": 59.7,
-    "AAV": 12,
+    "AAV": 13,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/san-diego-chargers-logo-vector.png"
   },
   {
@@ -2075,7 +2075,7 @@
     "team": "CIN",
     "bye": 9,
     "ADP": 63.1,
-    "AAV": 14,
+    "AAV": 12,
     "url": "https://seeklogo.net/wp-content/uploads/2012/05/cincinnati-bengals-logo-vector-01.png"
   },
   {
@@ -2086,7 +2086,7 @@
     "team": "CAR",
     "bye": 7,
     "ADP": 64.7,
-    "AAV": 10,
+    "AAV": 12,
     "url": "https://seeklogo.net/wp-content/uploads/2012/11/carolina-panthers-logo-vector.png"
   },
   {
@@ -2097,7 +2097,7 @@
     "team": "PHI",
     "bye": 10,
     "ADP": 70.8,
-    "AAV": 13,
+    "AAV": 14,
     "url": "https://seeklogo.net/wp-content/uploads/2014/10/philadelphia-eagles-logo.png"
   },
   {
@@ -2108,7 +2108,7 @@
     "team": "NYJ",
     "bye": 4,
     "ADP": 71.1,
-    "AAV": 11,
+    "AAV": 5,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/new-york-jets-logo-vector-01.png"
   },
   {
@@ -2119,7 +2119,7 @@
     "team": "HOU",
     "bye": 10,
     "ADP": 79.6,
-    "AAV": 7,
+    "AAV": 4,
     "url": "https://seeklogo.net/wp-content/uploads/2012/11/houston-texans-logo-vector.png"
   },
   {
@@ -2141,7 +2141,7 @@
     "team": "ARI",
     "bye": 12,
     "ADP": 81.1,
-    "AAV": 6,
+    "AAV": 4,
     "url": "https://logoeps.com/wp-content/uploads/2012/12/arizona-cardinals-logo-vector.png"
   },
   {
@@ -2152,7 +2152,7 @@
     "team": "SF",
     "bye": 4,
     "ADP": 83.3,
-    "AAV": 8,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2011/06/san-francisco-49ers-logo-vector.png"
   },
   {
@@ -2174,7 +2174,7 @@
     "team": "GB",
     "bye": 11,
     "ADP": 92.4,
-    "AAV": 1,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/green-bay-packers-logo-vector.png"
   },
   {
@@ -2185,7 +2185,7 @@
     "team": "SEA",
     "bye": 11,
     "ADP": 92.6,
-    "AAV": 0,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2012/10/seattle-seahawks-logo-vector.png"
   },
   {
@@ -2196,7 +2196,7 @@
     "team": "NYG",
     "bye": 11,
     "ADP": 98.4,
-    "AAV": 0,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/new-york-giants-logo-vector.png"
   },
   {
@@ -2207,7 +2207,7 @@
     "team": "NYG",
     "bye": 11,
     "ADP": 98.6,
-    "AAV": 7,
+    "AAV": 10,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/new-york-giants-logo-vector.png"
   },
   {
@@ -2218,7 +2218,7 @@
     "team": "ARI",
     "bye": 12,
     "ADP": 99.5,
-    "AAV": 6,
+    "AAV": 3,
     "url": "https://logoeps.com/wp-content/uploads/2012/12/arizona-cardinals-logo-vector.png"
   },
   {
@@ -2229,7 +2229,7 @@
     "team": "DET",
     "bye": 5,
     "ADP": 101.2,
-    "AAV": 7,
+    "AAV": 4,
     "url": "https://seeklogo.net/wp-content/uploads/2012/09/detroit-lions-logo-vector-01.png"
   },
   {
@@ -2251,7 +2251,7 @@
     "team": "TEN",
     "bye": 11,
     "ADP": 106.1,
-    "AAV": 6,
+    "AAV": 3,
     "url": "https://seeklogo.com/images/T/tennessee-titans-logo-0840E794B3-seeklogo.com.png"
   },
   {
@@ -2273,7 +2273,7 @@
     "team": "JAX",
     "bye": 10,
     "ADP": 110.4,
-    "AAV": 6,
+    "AAV": 5,
     "url": "https://seeklogo.com/images/J/jacksonville-jaguars-logo-A285AA5F8E-seeklogo.com.png"
   },
   {
@@ -2284,7 +2284,7 @@
     "team": "HOU",
     "bye": 10,
     "ADP": 112.7,
-    "AAV": 0,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2012/11/houston-texans-logo-vector.png"
   },
   {
@@ -2295,7 +2295,7 @@
     "team": "PIT",
     "bye": 7,
     "ADP": 119.4,
-    "AAV": 0,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/pittsburgh-steelers-logo-vector-01.png"
   },
   {
@@ -2328,7 +2328,7 @@
     "team": "GB",
     "bye": 11,
     "ADP": 122.6,
-    "AAV": 0,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2012/12/green-bay-packers-logo-vector.png"
   },
   {
@@ -2356,13 +2356,13 @@
   {
     "id": 171,
     "rank": 138,
-    "name": "Parris Campbell",
+    "name": "Josh Gordon",
     "position": "WR",
-    "team": "IND",
+    "team": "NE",
     "bye": 6,
     "ADP": 132.1,
-    "AAV": 0,
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Indianapolis_Colts_logo.svg/386px-Indianapolis_Colts_logo.svg.png"
+    "AAV": 10,
+    "url": "https://seeklogo.net/wp-content/uploads/2014/10/new-england-patriots-logo-preview.png"
   },
   {
     "id": 177,
@@ -2372,7 +2372,7 @@
     "team": "CHI",
     "bye": 6,
     "ADP": 137,
-    "AAV": 0,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/chicago-bears-logo-vector.png"
   },
   {
@@ -2433,7 +2433,7 @@
   {
     "id": 205,
     "rank": 172,
-    "name": "DeVante Parker",
+    "name": "Albert Wilson",
     "position": "WR",
     "team": "MIA",
     "bye": 5,
@@ -2444,7 +2444,7 @@
   {
     "id": 215,
     "rank": 182,
-    "name": "Robert Foster",
+    "name": "John Brown",
     "position": "WR",
     "team": "BUF",
     "bye": 6,
@@ -2460,7 +2460,7 @@
     "team": "DAL",
     "bye": 8,
     "ADP": 163.7,
-    "AAV": 1,
+    "AAV": 2,
     "url": "https://seeklogo.net/wp-content/uploads/2011/05/dallas-cowboys-logo-vector.png"
   },
   {
@@ -2477,13 +2477,13 @@
   {
     "id": 223,
     "rank": 190,
-    "name": "Deebo Samuel",
+    "name": "Adam Humphries",
     "position": "WR",
-    "team": "SF",
+    "team": "TEN",
     "bye": 12,
     "ADP": 164.2,
     "AAV": 0,
-    "url": "https://seeklogo.net/wp-content/uploads/2011/06/san-francisco-49ers-logo-vector.png"
+    "url": "https://seeklogo.com/images/T/tennessee-titans-logo-0840E794B3-seeklogo.com.png"
   },
   {
     "id": 224,

@@ -1,3 +1,6 @@
+### USE 
+Drag and drop players and tiers.  Double click to add to team, click to mark as selected, right click to star player.  Find/save rankings by username.
+
 ###DEVELOPMENT
 npm install
 npm run react-dev
@@ -25,7 +28,7 @@ Custom: 3000 anywhere
 sudo ssh -i draft.pem ubuntu@172.31.40.250
 
 ###Version Planning
- #V0.0: MVP (June 2019)
+ ##V0.0: MVP (June 2019)
     + Tiered Ranking 
     + User Data Persistence
     + Click-to-mark, right-click-to-star, double-click-to-select

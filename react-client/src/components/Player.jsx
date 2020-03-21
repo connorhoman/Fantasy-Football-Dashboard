@@ -79,7 +79,7 @@ class Player extends React.Component {
   }
 
   onDoubleClick() {
-    this.props.addPlayerToTeam(this.props);
+    this.props.addPlayerToTeam(this.props, this.getRank());
   }
 
   turnColor() {
