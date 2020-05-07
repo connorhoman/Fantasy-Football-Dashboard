@@ -1,5 +1,5 @@
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/fantasy', { useMongoClient: true });
+mongoose.connect('mongodb://localhost:27017/fantasy', { useNewUrlParser: true });
 
 var db = mongoose.connection;
 

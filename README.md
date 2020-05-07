@@ -1,7 +1,11 @@
-### USE 
+### USING THE FANTASY FOOTBALL DRAFT DASHBOARD 
 Drag and drop players and tiers.  Double click to add to team, click to mark as selected, right click to star player.  Find/save rankings by username.
 
 ###DEVELOPMENT
+Install Node via brew
+Download MongoDB (enter mongo shell to confirm)
+Use JSON data
+mongoimport --jsonArray --db fantasy --collection players --file playerData.json
 npm install
 npm run react-dev
 npm run server-dev
@@ -9,23 +13,16 @@ npm run server-dev
 ###API
 #GET
 /players
-
 #GET
 /rankings/user
 #POST
 /rankings
 
-###Data
-Convert CSV data to JSON
-mongoimport --jsonArray --db fantasy --collection players --file playerData.json
-
-### Production
+### Production Security Settings
 SSH: anywhere
 HTTP: anywhere
 HTTPS: anywhere
 Custom: 3000 anywhere
-
-sudo ssh -i draft.pem ubuntu@172.31.40.250
 
 ###Version Planning
  ##V0.0: MVP (June 2019)
@@ -34,8 +31,7 @@ sudo ssh -i draft.pem ubuntu@172.31.40.250
     + Click-to-mark, right-click-to-star, double-click-to-select
  V1.0: 2019 Season (August 2019)
     - Team Depth Charts
-    - Draft Budget Tracker
-    - Historical League Data
+    - In-Draft Team/Budget Trackers
  V2.0: 2020 Season (July 2020) 
     - Connect to ESPN API for data
     - Expert rankings
@@ -44,3 +40,5 @@ sudo ssh -i draft.pem ubuntu@172.31.40.250
  V3.0: 2021 Season (July 2021)
     - Connect to Live Draft
     - Monetize?
+
+

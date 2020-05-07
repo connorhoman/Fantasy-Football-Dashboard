@@ -12,35 +12,29 @@ const Name = styled.span`
   align-content: left;
   margin-left: 5px;
   font-size: 100%;
-  color: #525151;
-`;
-const Team = styled.span`
-  float: right;
-`;
-const Img = styled.div`
-  margin-top: -7px;
-  padding-right: 25px;
-  opacity: .7;
+  color: white;
 `;
 const Bye = styled.span`
   font-size: 14px;
   margin-left: 5px;
   float: right;
-  color: #525151;
+  color: silver;
 `;
 const Wrapper = styled.div`
   padding: 10px;
+  border: 4px solid;
 `;
 const AAV = styled.span`
   float: left;
   margin-top: -2px;
   font-weight: 900;
   font-size: 19px;
-  color: darkgreen;
+  color: silver;
 `;
 const Rank = styled.span`
   float: left;
   padding-left: 20px;
+  color: silver;
 `;
 
 class Player extends React.Component {
@@ -48,6 +42,7 @@ class Player extends React.Component {
     super(props);
     this.state = { 
       background: '',
+      borderColor: '',
       AAV: '',
     }
   }
@@ -83,26 +78,82 @@ class Player extends React.Component {
   }
 
   turnColor() {
-    if (this.props.player.position === 'QB') {
-      this.setState({background: '#ffa8ab'});
-    }
-    if (this.props.player.position === 'RB') {
-      this.setState({background: '#bed8ff'});
-    }
-    if (this.props.player.position === 'WR') {
-      this.setState({background: '#a6ff8e'});
-    }
-    if (this.props.player.position === 'TE') {
-      this.setState({background: '#fff5a7'});
-    }
-    if (this.props.player.position === 'DEF') {
-      this.setState({background: '#ffc986'});
-    }
-    if (this.props.player.position === 'PK') {
-      this.setState({background: '#ffbef5'});
-    }
-    if (this.props.player.name.slice(0,4) === 'TIER') {
-      this.setState({background: 'grey'});
+    this.setState({background:'grey'})
+    var teamColors = {
+      ARI: 'brown',
+      ATL: 'red',
+      BAL: 'purple',
+      BUF: 'blue',
+      CAR: 'lightblue',
+      CHI: 'darkblue',
+      CIN: 'orange',
+      CLE: 'maroon',
+      DAL: 'darkblue',
+      DEN: 'blue',
+      DET: 'lightblue',
+      GB: 'green',
+      HOU: 'navy',
+      IND: 'blue',
+      JAX: 'turquoise',
+      KC: 'red',
+      LAC: 'lightblue',
+      LAR: 'blue',
+      LV: 'grey',
+      MIA: 'lightblue',
+      MIN: 'purple',
+      NE: 'silver',
+      NO: 'gold',
+      NYG: 'blue',
+      NYJ: 'green',
+      PHI: 'darkgreen',
+      PIT: 'yellow',
+      SEA: 'darkblue',
+      SF: 'red',
+      TEN: 'lightblue',
+      TB: 'red',
+      WAS: 'brown',
+    };
+    var teamBorderColors = {
+      ARI: 'black',
+      ATL: 'black',
+      BAL: 'black',
+      BUF: 'red',
+      CAR: 'blue',
+      CHI: 'orange',
+      CIN: 'black',
+      CLE: 'orange',
+      DAL: 'lightblue',
+      DEN: 'orange',
+      DET: 'blue',
+      GB: 'yellow',
+      HOU: 'maroon',
+      IND: 'white',
+      JAX: 'green',
+      KC: 'gold',
+      LAC: 'yellow',
+      LAR: 'yellow',
+      LV: 'grey',
+      MIA: 'orange',
+      MIN: 'gold',
+      NE: 'blue',
+      NO: 'black',
+      NYG: 'red',
+      NYJ: 'silver',
+      PHI: 'green',
+      PIT: 'black',
+      SEA: 'lightgreen',
+      SF: 'gold',
+      TEN: 'silver',
+      TB: 'brown',
+      WAS: 'yellow',
+    };
+    if (!this.props.player.team) {
+      this.setState({background: 'black', borderColor: 'black'})
+    } else {
+      this.setState({
+        background: teamColors[this.props.player.team],
+        borderColor: teamBorderColors[this.props.player.team],
+      });
     }
   }
 
@@ -149,7 +200,7 @@ class Player extends React.Component {
       <Draggable draggableId={this.props.player.id} index={this.props.index}>
         {(provided) => (
             <Card onDoubleClick={this.onDoubleClick.bind(this)} onClick={this.onClick.bind(this)} ref={provided.innerRef} {...provided.draggableProps} {...provided.dragHandleProps}>
-              <Wrapper style={{backgroundColor: this.state.background}}>
+              <Wrapper style={{backgroundColor: this.state.background, borderColor: this.state.borderColor}}>
                 <AAV>
                   { this.state.AAV }
                 </AAV>
@@ -162,11 +213,6 @@ class Player extends React.Component {
                 <Bye>
                   { this.props.player.bye }
                 </Bye>
-                <Team>
-                  <Img>
-                    <img height='29px' width='29px' src={this.props.player.url}></img>
-                  </Img>              
-                </Team>
               </Wrapper>                
             </Card>
         )}
