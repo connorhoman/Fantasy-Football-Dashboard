@@ -5,7 +5,7 @@ Drag and drop players and tiers.  Double click to add to team, click to mark as 
 Install Node via brew
 Download MongoDB (enter mongo shell to confirm)
 Use JSON data
-mongoimport --jsonArray --db fantasy --collection players --file playerData.json
+mongoimport --jsonArray --db fantasy --collection players --file playerData2020.json
 npm install
 npm run react-dev
 npm run server-dev
