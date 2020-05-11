@@ -86,13 +86,13 @@ class App extends React.Component {
       wr: [],
       te: [],
       def: [],
-      pk: [],
+      k: [],
       teamqb: [],
       teamrb: [],
       teamwr: [],
       teamte: [],
       teamdef: [],
-      teampk: []
+      teamk: []
     }
   }
   
@@ -108,7 +108,7 @@ class App extends React.Component {
         var wrs = sorted.filter(player => player.position === 'WR');
         var tes = sorted.filter(player => player.position === 'TE');
         var defs = sorted.filter(player => player.position === 'DEF');
-        var pks = sorted.filter(player => player.position === 'PK');
+        var ks = sorted.filter(player => player.position === 'K');
         this.setState({
           user: 'ESPN',
           userRanking: '',
@@ -117,13 +117,13 @@ class App extends React.Component {
           wr: wrs,
           te: tes,
           def: defs,
-          pk: pks,
+          k: ks,
           teamqb: [],
           teamrb: [],
           teamwr: [],
           teamte: [],
           teamdef: [],
-          teampk:[],
+          teamk:[],
         });
         this.findRankings();
       },
@@ -169,7 +169,7 @@ class App extends React.Component {
         wr: this.state.wr,
         te: this.state.te,
         def: this.state.def,
-        pk: this.state.pk
+        k: this.state.k
       },
       success: () => {
         window.alert(`Successfully Saved ${this.state.user}'s Rankings`);
@@ -223,8 +223,8 @@ class App extends React.Component {
       currentTeam.push(rank + ':' + player.player.name);
       this.setState({teamdef: currentTeam});
     }
-    if (player.player.position === 'PK') {
-      let currentTeam = this.state.teampk;
+    if (player.player.position === 'K') {
+      let currentTeam = this.state.teamk;
       currentTeam.push(player.player.name + rank);
       this.setState({teampk: currentTeam});
     }
@@ -268,7 +268,7 @@ class App extends React.Component {
           </div>
             <Position>K:</Position>
           <div>
-            <Players>{this.state.teampk.toString()}</Players>
+            <Players>{this.state.teamk.toString()}</Players>
           </div>
         </Team>
         <Background>
@@ -307,7 +307,7 @@ class App extends React.Component {
               <Header>
                 Kickers
               </Header>
-              <PlayerList addPlayerToTeam={this.addPlayerToTeam.bind(this)} key={6} id={'pk'} players={this.state.pk}/>
+              <PlayerList addPlayerToTeam={this.addPlayerToTeam.bind(this)} key={6} id={'k'} players={this.state.k}/>
             </List>         
           </DragDropContext>   
         </Background> 

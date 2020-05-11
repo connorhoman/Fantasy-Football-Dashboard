@@ -80,25 +80,25 @@ class Player extends React.Component {
   turnColor() {
     this.setState({background:'grey'})
     var teamColors = {
-      ARI: '#97233F',
+      ARZ: '#97233F',
       ATL: '#C8102E',
-      BAL: '#241773',
+      BLT: '#241773',
       BUF: '#00338D',
       CAR: '#0085CA',
       CHI: '#0B162A',
       CIN: '#FB4F14',
-      CLE: '#311D00',
+      CLV: '#311D00',
       DAL: '#003594',
       DEN: '#FB4F14',
       DET: '#0076B6',
       GB: '#203731',
-      HOU: '#03202F',
+      HST: '#03202F',
       IND: '#003087',
       JAX: '#006778',
       KC: '#E31827',
       LAC: '#002A5E',
-      LAR: '#002244',
-      LV: '#000000',
+      LA: '#002244',
+      OAK: '#000000',
       MIA: '#008E97',
       MIN: '#4F2683',
       NE: '#012169',
@@ -115,25 +115,25 @@ class Player extends React.Component {
       FA: 'white'
     };
     var teamBorderColors = {
-      ARI: '#000000',
+      ARZ: '#000000',
       ATL: '#000000',
-      BAL: '#000000',
+      BLT: '#000000',
       BUF: '#C60C30',
       CAR: '#000000',
       CHI: '#C83803',
       CIN: '#000000',
-      CLE: '#FF3C00',
+      CLV: '#FF3C00',
       DAL: '#041E42',
       DEN: '#002244',
       DET: '#B0B7BC',
       GB: '#FFB612',
-      HOU: '#A71930',
+      HST: '#A71930',
       IND: '#A2AAAD',
       JAX: '#D7A22A',
       KC: '#FFB81C',
       LAC: '#FFC20E',
-      LAR: '#866D4B',
-      LV: '#A5ACAF',
+      LA: '#866D4B',
+      OAK: '#A5ACAF',
       MIA: '#FC4C02',
       MIN: '#FFC62F',
       NE: '#C8102E',
@@ -192,7 +192,7 @@ class Player extends React.Component {
     if (this.props.player.position === 'DEF') {
       return 'DEF' + rank.toString();
     }
-    if (this.props.player.position === 'PK') {
+    if (this.props.player.position === 'K') {
       return 'K' + rank.toString();
     }
   }
